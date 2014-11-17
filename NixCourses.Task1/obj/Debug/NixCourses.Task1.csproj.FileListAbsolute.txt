@@ -1,0 +1,12 @@
+D:\Workspace\VisualStudio 2013\NixCourses\NixCourses.Task1\bin\Debug\NixCourses.Task1.exe.config
+D:\Workspace\VisualStudio 2013\NixCourses\NixCourses.Task1\bin\Debug\NixCourses.Task1.exe
+D:\Workspace\VisualStudio 2013\NixCourses\NixCourses.Task1\bin\Debug\NixCourses.Task1.pdb
+D:\Workspace\VisualStudio 2013\NixCourses\NixCourses.Task1\obj\Debug\NixCourses.Task1.csprojResolveAssemblyReference.cache
+D:\Workspace\VisualStudio 2013\NixCourses\NixCourses.Task1\obj\Debug\NixCourses.Task1.exe
+D:\Workspace\VisualStudio 2013\NixCourses\NixCourses.Task1\obj\Debug\NixCourses.Task1.pdb
+D:\Workspace\VisualStudio 2013\NixCourses\Task1\NixCourses.Task1\bin\Debug\NixCourses.Task1.exe.config
+D:\Workspace\VisualStudio 2013\NixCourses\Task1\NixCourses.Task1\obj\Debug\NixCourses.Task1.exe
+D:\Workspace\VisualStudio 2013\NixCourses\Task1\NixCourses.Task1\obj\Debug\NixCourses.Task1.pdb
+D:\Workspace\VisualStudio 2013\NixCourses\Task1\NixCourses.Task1\bin\Debug\NixCourses.Task1.exe
+D:\Workspace\VisualStudio 2013\NixCourses\Task1\NixCourses.Task1\bin\Debug\NixCourses.Task1.pdb
+D:\Workspace\VisualStudio 2013\NixCourses\Task1\NixCourses.Task1\obj\Debug\NixCourses.Task1.csprojResolveAssemblyReference.cache
